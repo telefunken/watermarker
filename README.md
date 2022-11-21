@@ -8,4 +8,4 @@ Features:
 * Accepts watermark weight
 
 Usage:
-```> gradle run --console=plain```
+```> ./gradlew run --console=plain```
